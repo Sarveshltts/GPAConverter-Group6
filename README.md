@@ -86,7 +86,7 @@ It can be used to calculate the percentage using the Grades that an individual g
 This project is used by the universities/colleges, companies as well as by the students to calculate the percentages that an individual has scored, it is basically used when the individual wants to know his/her position as well as colleges can use it to rank the students.
 
 ## WHO- 
-College students will be benefited from this system who’re trying to calculate their GPA or CGPA or overall Percentile.
+College students will be benefited from this system who’re trying to calculate their GPA or CGPA or overall percentage.
 
 ## WHAT- 
 We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA, CGPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA, CGPA or percentage. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
